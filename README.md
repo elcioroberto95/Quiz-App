@@ -1,5 +1,5 @@
 # Quiz-App
-A Quiz de múltiplas alternativas que busca questões variadas através de uma API chamada Open Trivia , utilizando localStorage para salvar as informações de acertos.<br>
+A Quiz de múltiplas alternativas que busca questões variadas através de uma API chamada Open Trivia , utilizando localStorage para salvar as informações de acertos.<br><br>
 A multi-alternative quiz that searches for various questions through an API called Open Trivia, using localStorage to save the hit information.
 
 Home/Inicio<br>
